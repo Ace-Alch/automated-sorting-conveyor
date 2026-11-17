@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Automated Sorting Conveyor project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/automated-sorting-conveyor.webp" width="100%" alt="automated-sorting-conveyor — concept artwork">
 
 # Automated Sorting Conveyor
 
